@@ -38,5 +38,6 @@ namespace BaskTalents.Controllers
         {
             players.Add(player);
         }
+        
     }
 }
